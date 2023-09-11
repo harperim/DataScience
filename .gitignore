@@ -4,6 +4,7 @@ newvenv
 *.json
 *.xlsx
 *.txt
+horse-or-human.zip
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv
